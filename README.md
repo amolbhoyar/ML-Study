@@ -19,7 +19,7 @@ Link - https://datahack.analyticsvidhya.com/contest/black-friday/
 Current LB rank – Top 5 % (715 out of 16049 participants)
 
 
-The competition involved working on retail industry sales for customers and products. We need to predict the future sales for the products. The data contains  ~350K rows for training data and ~150K in test data.
+The competition involved working on retail industry sales for customers and products. We need to predict the future sales for the products. The data contains  ~550K rows for training data and ~234K in test data.
 
 
 Learnt about and used techniques for Encodings and parameter tuning.
